@@ -35,6 +35,7 @@
     <summary>:zap: Github Stats</summary>
 
 ![Carbon's GitHub stats](https://github-readme-stats-carbonemself.vercel.app/api?username=CarbonEmSelf&showicons=true&theme=material-palenight)
+![Top Langs](https://github-readme-stats-carbonemself.vercel.app/api/top-langs/?username=CarbonEmSelf)
 
 </details>
 
