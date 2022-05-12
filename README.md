@@ -30,6 +30,6 @@
 <details>
     <summary>:zap: GitHub Stats</summary>
     
-    (https://github-readme-stats-carbonemself.vercel.app/api?username=carbonemself)
+    [![Carbon's GitHub stats](https://github-readme-stats-carbonemself.vercel.app/api?username=CarbonEmSelf)](https://github.com/CarbonEmSelf/github-readme-stats)
 
 </details>
