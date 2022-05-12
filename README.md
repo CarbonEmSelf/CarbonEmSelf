@@ -18,8 +18,6 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/carbonemself#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/carbonemself#gh-dark-mode-only)
 
-<br />
-
 ---
 
 ### 📺 Latest Youtube Videos
@@ -28,3 +26,10 @@
 <!-- YOUTUBE:END -->
 
 ---
+
+<details>
+    <summary>:zap: GitHub Stats</summary>
+
+    <img align="left" alt="CarbonEmSelf's GitHub Stats" src="https://github-readme-stats-carbonemself.vercel.app/api?username=carbonemself&show_icons=true&hide_border=true" />
+
+</details>
