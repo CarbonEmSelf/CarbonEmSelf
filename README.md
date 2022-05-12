@@ -12,8 +12,8 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/channel/UC9Vm_yzyskUPAjnqaoc36XQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/channel/UC9Vm_yzyskUPAjnqaoc36XQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/CarbonEmSelf#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/CarbonEmSelf#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/CarbonEmSelf#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/CarbonEmSelf#gh-dark-mode-only)
