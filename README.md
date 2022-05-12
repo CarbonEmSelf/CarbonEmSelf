@@ -31,4 +31,4 @@
 
 ---
 
-![Carbon's GitHub stats](https://github-readme-stats-carbonemself.vercel.app/api?username=CarbonEmSelf)]
+![Carbon's GitHub stats](https://github-readme-stats-carbonemself.vercel.app/api?username=CarbonEmSelf)
