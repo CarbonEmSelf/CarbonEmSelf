@@ -42,78 +42,78 @@
     <summary>:zap: WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
+**🐱 My GitHub Data** 
 
-**🐱 My GitHub Data**
-
-> 🏆 22 Contributions in the Year 2022
->
-> 📦 105 Bytes Used in GitHub's Storage
->
+> 🏆 28 Contributions in the Year 2022
+ > 
+> 📦 1.5 kB Used in GitHub's Storage 
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 2 Public Repositories
->
-> 🔑 1 Private Repository
->
-> **I'm an Early 🐤**
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    9 commits      ██████████░░░░░░░░░░░░░░░   40.91%
-🌆 Daytime    13 commits     ██████████████░░░░░░░░░░░   59.09%
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌞 Morning    9 commits      ████████░░░░░░░░░░░░░░░░░   32.14% 
+🌆 Daytime    17 commits     ███████████████░░░░░░░░░░   60.71% 
+🌃 Evening    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-Thursday     22 commits     █████████████████████████   100.0%
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Thursday     28 commits     █████████████████████████   100.0% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
-Python                   1 repo              █████████████████████████   100.0%
+Python                   2 repos             █████████████████████████   100.0%
 
 ```
+
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png)
+![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
-Last Updated on 12/05/2022 07:32:00 UTC
 
+ Last Updated on 12/05/2022 18:49:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
