@@ -24,4 +24,9 @@
 
 ---
 
+<details>
+    <summary>:zap: Github Stats</summary>
+
 ![Carbon's GitHub stats](https://github-readme-stats-carbonemself.vercel.app/api?username=CarbonEmSelf&showicons=true&theme=material-palenight)
+
+</details>
