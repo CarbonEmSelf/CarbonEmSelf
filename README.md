@@ -25,7 +25,7 @@
 ---
 
 <details>
-    <summary>:zap Repo Stats:</summary>
+    <summary>:zap: Repo Stats</summary>
 
 <!--START_SECTION:activity-->
 
