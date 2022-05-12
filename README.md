@@ -1,4 +1,4 @@
-# Hi there, I'm Carbon - aka [Carbonized] 👋
+# Hi there, I'm Carbon - aka Carbonized 👋
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/CarbonEmSelf?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 ![Discord](https://img.shields.io/discord/798377736472363038?label=Join%20COTP&logo=Discord&style=for-the-badge)
@@ -21,13 +21,6 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/carbonemself#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/carbonemself#gh-dark-mode-only)
-
----
-
-### 📺 Latest Youtube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 ---
 
