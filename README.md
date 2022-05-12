@@ -25,7 +25,10 @@
 ---
 
 <details>
-    <!--START_SECTION:activity-->
+    <summary>:zap Repo Stats:</summary>
+
+<!--START_SECTION:activity-->
+
 </details>
 
 <details>
@@ -35,5 +38,10 @@
 
 </details>
 
+<details>
+    <summary>:zap: WakaTime Stats</summary>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+</details>
