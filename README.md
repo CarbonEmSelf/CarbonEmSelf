@@ -29,7 +29,7 @@
 
 <details>
     <summary>:zap: GitHub Stats</summary>
-
-    <img align="left" alt="CarbonEmSelf's GitHub Stats" src="https://github-readme-stats-carbonemself.vercel.app/api?username=carbonemself&show_icons=true&hide_border=true" />
+    
+    (https://github-readme-stats-carbonemself.vercel.app/api?username=carbonemself)
 
 </details>
