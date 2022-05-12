@@ -1,5 +1,9 @@
 # Hi there, I'm Carbon - aka [Carbonized] 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/CarbonEmSelf?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+![Discord](https://img.shields.io/discord/798377736472363038?label=Join%20COTP&logo=Discord&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9Vm_yzyskUPAjnqaoc36XQ?color=%23FF0000&label=Carbonized&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)
+
 ## I'm a Student, Tech Lover, Weeb, and Ethical Hacker!!
 
 - 🌱 I’m currently trying learning everything 🤣
