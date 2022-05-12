@@ -17,3 +17,15 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/carbonemself#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/carbonemself#gh-dark-mode-only)
+
+<br />
+<br />
+
+---
+
+### 📺 Latest Youtube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
