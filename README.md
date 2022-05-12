@@ -25,8 +25,15 @@
 ---
 
 <details>
+    <!--START_SECTION:activity-->
+</details>
+
+<details>
     <summary>:zap: Github Stats</summary>
 
 ![Carbon's GitHub stats](https://github-readme-stats-carbonemself.vercel.app/api?username=CarbonEmSelf&showicons=true&theme=material-palenight)
 
 </details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
