@@ -86,16 +86,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+msdt-follina             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -112,7 +112,7 @@ Python                   2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 09/06/2022 18:44:19 UTC
+ Last Updated on 10/06/2022 18:47:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
