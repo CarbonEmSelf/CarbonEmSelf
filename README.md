@@ -92,6 +92,7 @@ Python                   0 secs              ░░░░░░░░░░░�
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🐱‍💻 Projects: 
+PR0XY2.0_                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0% 
 msdt-follina             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
@@ -112,7 +113,7 @@ Python                   2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/06/2022 18:47:14 UTC
+ Last Updated on 11/06/2022 18:42:06 UTC
 <!--END_SECTION:waka-->
 
 </details>
