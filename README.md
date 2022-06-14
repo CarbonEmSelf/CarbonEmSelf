@@ -113,7 +113,7 @@ Python                   2 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/06/2022 18:46:29 UTC
+ Last Updated on 14/06/2022 18:45:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
