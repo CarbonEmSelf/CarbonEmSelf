@@ -41,21 +41,21 @@
     <summary>:zap: WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 34 Contributions in the Year 2022
+> 🏆 48 Contributions in the Year 2022
  > 
 > 📦 1.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 3 Public Repositories 
+> 📜 4 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -86,22 +86,16 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   23 mins             ███████░░░░░░░░░░░░░░░░░░   30.13% 
-Bash                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.35% 
-JSON                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.16% 
-INI                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 19 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Revanced Mail            59 mins             ██████████████████░░░░░░░   74.33% 
-RevancedMail             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
-ticket-bot               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 19 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -119,7 +113,7 @@ Shell                    1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 22/07/2022 18:47:47 UTC
+ Last Updated on 17/08/2022 18:48:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
