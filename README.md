@@ -113,7 +113,7 @@ Shell                    1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/08/2022 18:47:25 UTC
+ Last Updated on 01/09/2022 18:48:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
