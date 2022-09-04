@@ -41,7 +41,7 @@
     <summary>:zap: WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,48 +57,6 @@
  > 
 > 🔑 2 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    10 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌆 Daytime    25 commits     ███████████████░░░░░░░░░░   62.5% 
-🌃 Evening    5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5% 
-Thursday     33 commits     ████████████████████░░░░░   82.5% 
-Friday       5 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -113,7 +71,7 @@ Shell                    1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:45:46 UTC
+ Last Updated on 04/09/2022 18:46:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
