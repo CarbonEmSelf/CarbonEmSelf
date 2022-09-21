@@ -49,7 +49,7 @@
 
 > 🏆 46 Contributions in the Year 2022
  > 
-> 📦 1.7 kB Used in GitHub's Storage 
+> 📦 1.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -113,7 +113,7 @@ Shell                    1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 20/09/2022 18:51:51 UTC
+ Last Updated on 21/09/2022 18:54:32 UTC
 <!--END_SECTION:waka-->
 
 </details>
