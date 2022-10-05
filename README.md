@@ -41,7 +41,7 @@
     <summary>:zap: WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,16 +86,19 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████████   100.0%
+Python                   1 hr 25 mins        ██████████████████░░░░░░░   72.35% 
+HTML                     32 mins             ██████░░░░░░░░░░░░░░░░░░░   27.43% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+VS Code                  1 hr 57 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Discord-Presser-Server-Nu0 secs              █████████████████████████   100.0%
+mangaNovelity            1 hr 25 mins        ██████████████████░░░░░░░   72.57% 
+websiteProject           32 mins             ██████░░░░░░░░░░░░░░░░░░░   27.43%
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.0%
+Windows                  1 hr 57 mins        █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +116,7 @@ Shell                    1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 18:59:16 UTC
+ Last Updated on 05/10/2022 19:02:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
