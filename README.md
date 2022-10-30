@@ -41,7 +41,7 @@
     <summary>:zap: WakaTime Stats</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-26%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,16 +86,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      59 mins             ██████████████████░░░░░░░   72.67% 
+Python                   22 mins             ██████░░░░░░░░░░░░░░░░░░░   27.33%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 21 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Visual Studio Code       1 hr 21 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 21 mins        █████████████████████████   100.0%
 
 ```
 
@@ -113,7 +114,7 @@ Shell                    1 repo              ████████░░░�
 ![Chart not found](https://raw.githubusercontent.com/CarbonEmSelf/CarbonEmSelf/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/10/2022 18:46:56 UTC
+ Last Updated on 30/10/2022 18:48:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
